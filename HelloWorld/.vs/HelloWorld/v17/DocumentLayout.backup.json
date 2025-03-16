@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Seodongyeon\\Desktop\\\uC11C\uB3D9\uC5F0\\\uC804\uBD81\uB300\uD559\uAD50\\\uC804\uC790\uACF5\uD559\uBD80\\4\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\data-structure-lab-2025\\HelloWorld\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{871ED333-6423-40DF-9B4E-9359F6CE7FE1}|HelloWorld\\HelloWorld.vcxproj|C:\\Users\\Seodongyeon\\Desktop\\\uC11C\uB3D9\uC5F0\\\uC804\uBD81\uB300\uD559\uAD50\\\uC804\uC790\uACF5\uD559\uBD80\\4\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\data-structure-lab-2025\\HelloWorld\\HelloWorld\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}",
+      "RelativeMoniker": "D:0:0:{871ED333-6423-40DF-9B4E-9359F6CE7FE1}|HelloWorld\\HelloWorld.vcxproj|solutionrelative:HelloWorld\\HelloWorld.cpp||{D0E1A5C6-B359-4E41-9B60-3365922C2A22}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "HelloWorld.cpp",
+              "DocumentMoniker": "C:\\Users\\Seodongyeon\\Desktop\\\uC11C\uB3D9\uC5F0\\\uC804\uBD81\uB300\uD559\uAD50\\\uC804\uC790\uACF5\uD559\uBD80\\4\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\data-structure-lab-2025\\HelloWorld\\HelloWorld\\HelloWorld.cpp",
+              "RelativeDocumentMoniker": "HelloWorld\\HelloWorld.cpp",
+              "ToolTip": "C:\\Users\\Seodongyeon\\Desktop\\\uC11C\uB3D9\uC5F0\\\uC804\uBD81\uB300\uD559\uAD50\\\uC804\uC790\uACF5\uD559\uBD80\\4\uD559\uB144 1\uD559\uAE30\\\uB370\uC774\uD130\uAD6C\uC870\uBC0F\uD504\uB85C\uADF8\uB798\uBC0D\uC2E4\uC2B5\\data-structure-lab-2025\\HelloWorld\\HelloWorld\\HelloWorld.cpp*",
+              "RelativeToolTip": "HelloWorld\\HelloWorld.cpp*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000677|",
+              "WhenOpened": "2025-03-16T15:01:52.096Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
